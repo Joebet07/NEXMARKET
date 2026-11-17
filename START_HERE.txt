@@ -1,0 +1,21 @@
+FIRST-YEAR LEARNING EDITION
+
+Read STUDENT_GUIDE.md first. It explains which files to study and how the main functions work.
+
+NEXTMARKET — QUICK START
+
+1. Extract this folder from the ZIP.
+2. Open the NEXTMARKET folder in Visual Studio Code.
+3. Install the Live Server extension if needed.
+4. Right-click index.html → Open with Live Server.
+
+Keep internet on for Bootstrap, icons, Chart.js and fonts.
+All product photos are included locally.
+No npm, terminal command or backend setup is required.
+
+Read README.md for the code map, features and demo limitations.
+
+ACCOUNTS
+Click the person icon → Create account. Use a sample email and a unique demo password.
+Your profile, favorites, listings and demo orders are available on the Account page.
+These are local demonstration accounts, not secure real accounts.
